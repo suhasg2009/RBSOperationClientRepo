@@ -1,5 +1,13 @@
 package com.asthvinayak.dao.impl;
 
-public class CreditCardDAOImpl {
+import com.asthvinayak.dao.CreditCardDAO;
 
+public class CreditCardDAOImpl implements CreditCardDAO{
+
+	public void getTransactionDetail() {
+		
+		
+	}
+	
+	
 }
